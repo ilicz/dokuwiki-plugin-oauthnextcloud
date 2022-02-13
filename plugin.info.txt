@@ -1,0 +1,7 @@
+base   oauthnextcloud
+author David 'ilicz' Klementa
+email  ilicz@inmail.cz
+date   2022-02-13
+name   oauth Nextcloud Service
+desc   Nextcloud Service for use with the oAuth Plugin
+url    http://www.dokuwiki.org/plugin:oauthnextcloud
